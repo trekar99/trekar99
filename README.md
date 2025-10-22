@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Currently studying Computer Science Degree in URV.
-Cybersecurity amateur.
+Currently studying Sound and Music Computing in Universitat Pompeu Fabra.
 
 
 <!--
