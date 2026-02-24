@@ -10,8 +10,6 @@ My work spans from acoustic performance to training AI models, with a particular
 * **Performance:** Touring as a solo classical guitarist and performing with the Mediterranean Guitar Orchestra.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="1" alt="Cyan line" />
-  <br><br>
   <a href="https://trekar99.github.io/"><b>[ PERSONAL SITE ]</b></a> &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
   <a href="https://urkan.vercel.app/"><b>[ URKAN ]</b></a> &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
   <a href="https://orquestra-mediterrania.vercel.app/"><b>[ ORCHESTRA ]</b></a>
