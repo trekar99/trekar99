@@ -1,6 +1,6 @@
 Exploring the space where music and computation meet. The focus is on finding new ways to create and interact with music.
 <br>
-My work spans from acoustic performance to training AI models, with a particular interest in exploring microtonality and ethnojazz.
+My work spans from acoustic performance to training AI models, with a particular interest in exploring microtonality and ethnojazz. Further projects and research can be found on my **[`personal website`](https://trekar99.github.io/)**.
 
 ### Currently
 
