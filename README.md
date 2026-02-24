@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&duration=1&pause=10000&color=00FFFF&center=true&vCenter=true&width=800&lines=Software+%26+AI+Engineering+×+Acoustic+Performance" alt="Profile Header" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="20%" height="1px" />
+  <h2><b>SOFTWARE & AI × MUSIC</b></h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="150" alt="Cyan line" />
 </div>
 
 <br>
@@ -19,13 +19,9 @@ My work spans from acoustic performance to training AI models, with a particular
 <br>
 
 <div align="center">
-  <a href="https://trekar99.github.io/">
-    <img src="https://icongr.am/feather/globe.svg?size=32&color=00FFFF" alt="Personal Website" style="margin: 0 20px;" />
-  </a>
-  <a href="https://urkan.vercel.app/">
-    <img src="https://icongr.am/feather/disc.svg?size=32&color=00FFFF" alt="Urkan Band" style="margin: 0 20px;" />
-  </a>
-  <a href="https://orquestra-mediterrania.vercel.app/">
-    <img src="https://icongr.am/feather/music.svg?size=32&color=00FFFF" alt="Mediterranean Guitar Orchestra" style="margin: 0 20px;" />
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="1" alt="Cyan line" />
+  <br><br>
+  <a href="https://trekar99.github.io/"><b>[ PERSONAL SITE ]</b></a> &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+  <a href="https://urkan.vercel.app/"><b>[ URKAN ]</b></a> &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+  <a href="https://orquestra-mediterrania.vercel.app/"><b>[ ORCHESTRA ]</b></a>
 </div>
