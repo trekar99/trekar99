@@ -1,11 +1,5 @@
-<div align="center">
-  <h2><b>SOFTWARE & AI × MUSIC</b></h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="150" alt="Cyan line" />
-</div>
-
-<br>
-
 Exploring the space where music and computation meet. The focus is on finding new ways to create and interact with music.
+<br>
 My work spans from acoustic performance to training AI models, with a particular interest in exploring microtonality and ethnojazz.
 
 ### Currently
@@ -14,9 +8,6 @@ My work spans from acoustic performance to training AI models, with a particular
 * **Engineering:** Software & AI Engineer Intern at BMAT.
 * **Urkan:** Developing an ethnojazz project that integrates generative AI for live visuals and audio exploration.
 * **Performance:** Touring as a solo classical guitarist and performing with the Mediterranean Guitar Orchestra.
-
-<br>
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="1" alt="Cyan line" />
