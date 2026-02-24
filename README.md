@@ -6,11 +6,5 @@ My work spans from acoustic performance to training AI models, with a particular
 
 * **Research:** MSc in Sound and Music Computing at UPF.
 * **Engineering:** Software & AI Engineer Intern at BMAT.
-* **Urkan:** Developing an ethnojazz project that integrates generative AI for live visuals and audio exploration.
-* **Performance:** Touring as a solo classical guitarist and performing with the Mediterranean Guitar Orchestra.
-
-<div align="center">
-  <a href="https://trekar99.github.io/"><b>[ PERSONAL SITE ]</b></a> &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
-  <a href="https://urkan.vercel.app/"><b>[ URKAN ]</b></a> &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
-  <a href="https://orquestra-mediterrania.vercel.app/"><b>[ ORCHESTRA ]</b></a>
-</div>
+* **[Urkan](https://urkan.vercel.app/):** Developing an ethnojazz project that integrates generative AI for live visuals and audio exploration.
+* **Performance:** Touring as a solo classical guitarist and performing with the **[Mediterranean Guitar Orchestra](https://orquestra-mediterrania.vercel.app/)**. 
